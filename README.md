@@ -2,6 +2,10 @@
 Android DialogTheme Sample
 
 # Theme.LikeADialog
-![theme](.images/Screenshot_20160610-115120.png)
+![screenshot](.images/Screenshot_20160610-115120.png)
 
 # Theme.LikeADialog.Translucent
+![screenshot](.images/Screenshot_20160610-115427.png)
+
+# AppTheme
+![screenshot](.images/Screenshot_20160610-115432.png)
