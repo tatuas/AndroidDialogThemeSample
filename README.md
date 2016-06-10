@@ -3,7 +3,7 @@ Android DialogTheme Sample
 
 ## Try
 
-https://dply.me/yi1zy9
+https://dply.me/xiftlf
 
 ## Screenshots
 
