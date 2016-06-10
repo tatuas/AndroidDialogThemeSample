@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogThemeSample</string>
+    <string name="activity_name_input">何かを入力</string>
+</resources>
