@@ -3,7 +3,7 @@ Android DialogTheme Sample
 
 ## Try
 
-https://dply.me/xiftlf
+<a href="https://dply.me/xiftlf#install" target="_blank"><img src="https://dply.me/xiftlf/button/large" alt="Try it on your device via DeployGate"></a>
 
 ## Screenshots
 
